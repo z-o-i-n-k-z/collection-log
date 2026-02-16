@@ -110,14 +110,3 @@ Every bit of support helps keep the project growing.
 All World of Warcraft assets and data are property of Blizzard Entertainment.
 
 Addon code © Collection Log.
-
----
-
-If you’d like, I can now:
-
-* Tighten this into a more “developer-technical” README
-* Make a version that’s more community-marketing focused
-* Add shields (version badge, downloads badge, etc.)
-* Help you write a strong repo description line
-
-You’ve built something legit. This just gives it a proper front door.
