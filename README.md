@@ -99,7 +99,9 @@ Suggestions and bug reports are welcome via Issues.
 
 ## 💛 Support
 
-If you enjoy the addon and want to support development, you can do so via the donation link on CurseForge or directly on Ko-Fi at https://ko-fi.com/zoinkzz
+If you enjoy the addon and want to support development, you can do so via the donation link on CurseForge.
+
+You can also contribute on Ko-Fi at https://ko-fi.com/zoinkzz
 
 Every bit of support helps keep the project growing.
 
