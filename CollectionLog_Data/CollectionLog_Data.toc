@@ -1,0 +1,30 @@
+## Interface: 120000, 120001
+## Title: Collection Log Data
+## Notes: Data packs for CollectionLog
+## Version: v1.1.2
+
+CollectionLog_Data.lua
+Dungeons/CollectionLog_Dungeons_battle_for_azeroth.lua
+Dungeons/CollectionLog_Dungeons_cataclysm.lua
+Dungeons/CollectionLog_Dungeons_classic.lua
+Dungeons/CollectionLog_Dungeons_dragonflight.lua
+Dungeons/CollectionLog_Dungeons_legion.lua
+Dungeons/CollectionLog_Dungeons_midnight.lua
+Dungeons/CollectionLog_Dungeons_mists_of_pandaria.lua
+Dungeons/CollectionLog_Dungeons_shadowlands.lua
+Dungeons/CollectionLog_Dungeons_the_burning_crusade.lua
+Dungeons/CollectionLog_Dungeons_the_war_within.lua
+Dungeons/CollectionLog_Dungeons_warlords_of_draenor.lua
+Dungeons/CollectionLog_Dungeons_wrath_of_the_lich_king.lua
+Raids/CollectionLog_Raids_battle_for_azeroth.lua
+Raids/CollectionLog_Raids_cataclysm.lua
+Raids/CollectionLog_Raids_classic.lua
+Raids/CollectionLog_Raids_dragonflight.lua
+Raids/CollectionLog_Raids_legion.lua
+Raids/CollectionLog_Raids_midnight.lua
+Raids/CollectionLog_Raids_mists_of_pandaria.lua
+Raids/CollectionLog_Raids_shadowlands.lua
+Raids/CollectionLog_Raids_the_burning_crusade.lua
+Raids/CollectionLog_Raids_the_war_within.lua
+Raids/CollectionLog_Raids_warlords_of_draenor.lua
+Raids/CollectionLog_Raids_wrath_of_the_lich_king.lua

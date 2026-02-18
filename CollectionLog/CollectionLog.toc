@@ -1,0 +1,28 @@
+## Interface: 120000, 120001
+## Title: Collection Log
+## Notes: OSRS-style Collection Log for WoW
+## Author: Zoinkz
+## Version: v1.1.2
+## SavedVariables: CollectionLogDB, CollectionLogMountDumpDB, CollectionLogMountGroupsDB, CollectionLogMountGroupingExportDB
+
+Libs\LibStub\LibStub.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+CollectionLog_Core.lua
+CollectionLog_MinimapButton.lua
+CollectionLog_AddonCompartment.lua
+CollectionLog_Data_Core.lua
+CollectionLog_DataPack_MountTags.lua
+CollectionLog_DataPack_MountDropCategories.lua
+CollectionLog_DataPack_MountSourceOverrides.lua
+CollectionLog_DataPack_RetiredMounts.lua
+CollectionLog_DataPack_AppearanceVariants.lua
+Data\JournalInstanceEntrance.lua
+CollectionLog_UI.lua
+CollectionLog_GeneratedPack.lua
+CollectionLog_Importer_EJ.lua
+CollectionLog_Importer_Mounts.lua
+CollectionLog_Importer_Pets.lua
+CollectionLog_Importer_Toys.lua
+CollectionLog_Track.lua
