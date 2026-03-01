@@ -73,7 +73,7 @@ If you encounter issues:
 
 Clear reproduction steps are extremely helpful.
 
-You can also report bugs on Discord: https://discord.gg/qkHK5V5s
+You can also report bugs on Discord: https://discord.gg/s2ZTG927
 
 ---
 
