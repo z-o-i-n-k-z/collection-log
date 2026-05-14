@@ -1,0 +1,55 @@
+## Interface: 120000, 120001, 120005
+## Title: Collection Log
+## IconTexture: Interface\AddOns\CollectionLog\Media\MinimapIcon
+## Notes: OSRS-style Collection Log for WoW
+## Author: Zoinkz
+## Version: 5.0.0
+## SavedVariables: CollectionLogDB, CollectionLog_Tracked, CollectionLogMountDumpDB, CollectionLogMountGroupsDB, CollectionLogMountGroupingExportDB
+
+Libs\LibStub\LibStub.lua
+Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
+
+CollectionLog_Core.lua
+CollectionLog_MinimapButton.lua
+CollectionLog_AddonCompartment.lua
+CollectionLog_Data_Core.lua
+CollectionLog_CompletionRaidMounts.lua
+CollectionLog_CompletionMountDB.lua
+CollectionLog_CompletionMountItemDB.lua
+CollectionLog_CompletionPetSpeciesDB.lua
+CollectionLog_CompletionPetItemDB.lua
+CollectionLog_CompletionToyItemDB.lua
+CollectionLog_CompletionHousingItemDB.lua
+CollectionLog_CompletionAppearanceItemDB.lua
+CollectionLog_CompletionDefinitions.lua
+CollectionLog_CompletionSnapshot.lua
+CollectionLog_CompletionEngine.lua
+CollectionLog_CompletionEvents.lua
+Core/RaidDungeonMeta.lua
+Core/Registry.lua
+Core/NameResolver.lua
+Core/Truth.lua
+Core/AppDiag.lua
+Core/Completion.lua
+Core/TrueCollection.lua
+Core/Compare.lua
+Core/JunkAudit.lua
+CollectionLog_DataPack_MountTags.lua
+CollectionLog_DataPack_MountDropCategories.lua
+CollectionLog_DataPack_MountSourceOverrides.lua
+CollectionLog_DataPack_RetiredMounts.lua
+CollectionLog_DataPack_AppearanceVariants.lua
+CollectionLog_HousingCatalog.lua
+CollectionLog_AppearanceSetsData.lua
+CollectionLog_Appearances.lua
+Data\JournalInstanceEntrance.lua
+CollectionLog_UI.lua
+CollectionLog_GeneratedPack.lua
+CollectionLog_Importer_EJ.lua
+CollectionLog_Importer_Mounts.lua
+CollectionLog_Importer_Pets.lua
+CollectionLog_Importer_Toys.lua
+CollectionLog_Track.lua
+CollectionLog_Audit_EJ.lua
+CollectionLog_Perf.lua

@@ -1,0 +1,2 @@
+-- Auto-generated CollectionLog_Data packs
+-- Packs self-register with CollectionLog via _G.CollectionLog_RegisterDataPack when available.
